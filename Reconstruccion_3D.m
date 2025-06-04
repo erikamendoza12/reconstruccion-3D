@@ -7,7 +7,7 @@
 % clear
 
 % Ruta de la carpeta con las imágenes a procesar
-path = "C:\Users\Bruno\Desktop\Programacion\Matlab\Matlab proyectos\Inteligencia Artificial 23A\Frames recortados\";
+path = "C:Frames recortados\";
 
 % Número total de imágenes en la secuencia
 num_imagenes = 210; 
